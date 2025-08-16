@@ -1,0 +1,1 @@
+Firebase Cloud Functions ile geliştirilmiş serverless backend API. CoinGecko API'den kripto para verilerini çekerek mobil uygulamaya real-time market data, coin detayları ve kullanıcı favori yönetimi sağlar. Authentication, favorites sync ve scalable data operations için optimize edilmiş Node.js tabanlı microservice mimarisi.
